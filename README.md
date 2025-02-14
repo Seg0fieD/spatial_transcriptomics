@@ -45,7 +45,7 @@ This project focuses on the analysis of spatial transcriptomics data using a 10X
 The R script used for analysis is named **Spatial-Transcriptomics-script**.
 
 ## Results:
-The resulting plots and images can be found in the `results/img` directory of this repository.
+The resulting plots and images can be found in the `png/` directory of this repository.
 
 ## References:
 For more details, refer to the official Seurat documentation for Spatial Transcriptomics: [Seurat Spatial Vignette](https://satijalab.org/seurat/articles/spatial_vignette.html).
